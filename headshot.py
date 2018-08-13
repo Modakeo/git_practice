@@ -1,1 +1,4 @@
 #empty
+
+def headshot():
+    pass
