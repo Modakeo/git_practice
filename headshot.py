@@ -1,4 +1,5 @@
 #empty
 
 def headshot():
-    pass
+    if x==i:
+	print("1")
